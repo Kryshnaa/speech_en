@@ -1,0 +1,42 @@
+[
+  {
+    "mixture": "data/voicebank_selected_diverse/mix_div_01.wav",
+    "targets": [
+      "data/voicebank_selected_diverse/clean_div_01.wav"
+    ],
+    "source_index": 0,
+    "id": "p226_001"
+  },
+  {
+    "mixture": "data/voicebank_selected_diverse/mix_div_02.wav",
+    "targets": [
+      "data/voicebank_selected_diverse/clean_div_02.wav"
+    ],
+    "source_index": 353,
+    "id": "p227_001"
+  },
+  {
+    "mixture": "data/voicebank_selected_diverse/mix_div_03.wav",
+    "targets": [
+      "data/voicebank_selected_diverse/clean_div_03.wav"
+    ],
+    "source_index": 742,
+    "id": "p228_001"
+  },
+  {
+    "mixture": "data/voicebank_selected_diverse/mix_div_04.wav",
+    "targets": [
+      "data/voicebank_selected_diverse/clean_div_04.wav"
+    ],
+    "source_index": 1103,
+    "id": "p230_001"
+  },
+  {
+    "mixture": "data/voicebank_selected_diverse/mix_div_05.wav",
+    "targets": [
+      "data/voicebank_selected_diverse/clean_div_05.wav"
+    ],
+    "source_index": 1495,
+    "id": "p231_001"
+  }
+]
